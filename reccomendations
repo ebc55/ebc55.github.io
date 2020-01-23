@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+
+<title>TITLE</title>
+  <h1 id="reccomendations"> RECCOMENDATIONS </h1>
+  <h2> SONGS, PODCASTS, BOOKS </h2>
+  <h1>SONGS</h1>
+    <a class="links" href="https://open.spotify.com/playlist/6BYLGT5cForeVhsWiHAMrr?si=c56W3SLvQT-iPaN8aqlEjg"> <strong> LIFTING PLAYLIST</strong> </a>
+<!--ADD MY SPOTIFY PLAYLIST-->
+<h1> PODCASTS</h1>
+<a class="links" href="https://open.spotify.com/show/4D3JFAh4ebj9lks9WOE2Vs?si=NRvUbmstTwS8HfpIBWbD_A"> <strong> MIND PUMP: RAW FITNESS TRUTH </strong> </a> <br>
+<a class="links" href="https://open.spotify.com/show/706hylM6zaDW8LrrYxcggQ?si=BgWSdAZ9SBGkoYZ85F7q0A"> <strong> THE MINDSET MENTOR</strong> </a> <br>
+<a class="links" href="https://open.spotify.com/show/6KHwEnVRZmS9tmxkyfqUMD?si=lbcTZFjxS2OeD6KQaPJlMA"> <strong> THE MFCEO PROJECT</strong> </a> <br>
+<a class="links" href="https://open.spotify.com/show/1dlfl4rDkWMQTGPOfRdcLQ?si=skenAROWQvaqTSVLP4VPDQ"> <strong> THE HEALTH CODE</strong> </a>
+
+
+
+<!--Add to website after final is due-->
+<section id="grid11">
+  <h1 id="blog"> BLOG POSTS </h1>
+  <img src="images/morning.jpg" alt="morning routine">
+<a class="links" href=""> MY MORNING ROUTINE</a>
+
+</section>

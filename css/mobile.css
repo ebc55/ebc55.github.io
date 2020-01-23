@@ -1,0 +1,238 @@
+@import "desktop.css";
+
+
+nav{
+  width: 350px;
+}
+
+nav ul{
+  display: block;
+  text-align: center;
+  margin-left: 60px;
+}
+
+nav ul li{
+  width: 170px;
+  display: block;
+  text-align: center;
+}
+
+header{
+  width: 400px;
+}
+#profile{
+  width: 300px;
+}
+
+#MYSTORY{
+  font-size: 35px;
+}
+
+#fitstory{
+  font-size: 18px;
+}
+
+#grid1, #grid2, #grid3, #grid4, #grid5, #grid8, #grid9, #grid10, #grid11{
+  width: 400px;
+  height: 0 auto;
+}
+
+#grid7{
+  width: 400px;
+  height: 150px;
+}
+
+#grid6{
+  width: 250px;
+  height: 200px;
+}
+
+#grid5{
+  width: 300px;
+}
+
+#grid10{
+  width: 300px;
+  height: 0 auto;
+}
+
+#main{
+  font-size: 40px;
+}
+
+#SHOP{
+  text-align: center;
+  font-size: 40px;
+}
+#COOK{
+  width: 180px;
+  height: 200px;
+display: center;
+}
+
+#cookbook{
+  font-size: 18px;
+  text-align: center;
+width: 365px;
+margin-left: -1px;
+}
+
+#food1, #food2, #food3, #food4, #food5{
+  width: 62px;
+  height: 62px;
+}
+
+#FACEBOOK{
+  font-size: 30px;
+}
+
+#fbintro{
+  text-align: center;
+}
+#hi{
+  font-size: 18px;
+  margin-left: -25px;
+}
+
+
+#fbp{
+  width: 100px;
+  height: 150px;
+  position: absolute;
+  margin-top: -155px;
+  right: -50px;
+}
+
+
+
+#fbtitle{
+  font-size: 40px;
+  padding-left: -80px;
+  text-align: left;
+}
+
+#fbgroup{
+  font-size: 22px;
+  line-height: 20pt;
+  padding-top: 150px;
+    text-align: left;
+    margin-left: -40px;
+}
+
+
+
+
+#handstand, #jump, #yay{
+    width: 100px;
+    height: auto;
+    padding: 5px;
+    border-radius: 25%;
+  }
+
+#links{
+  font-size: 17px;
+  width: 300px;
+  text-align: center;
+}
+
+#train{
+  width: 370px;
+  font-size: 18px;
+  text-align: center;
+  margin-left: 15px;
+}
+
+
+#links{
+  display: inline-block;
+}
+
+#linksimg{
+  width: 260px;
+  height: 400px;
+}
+
+#LINKSANDCODES{
+  font-size: 22px;
+}
+
+#MENTALHEALTH{
+  padding-top: 30px;
+  font-size: 22px;
+  margin-left: 5px;
+  line-height: 56px;
+}
+#mentalhealth{
+  width: 270px;
+  font-size: 20px;
+  padding-top: 12px;
+  margin-left: 140px;
+
+}
+#linksimg{
+  width: 150px;
+  height: 200px;
+  margin-left: -45px;
+}
+
+#links{
+
+  width: 200px;
+  display: inline-block;
+  margin-left: 140px;
+  margin-right: 10px;
+  vertical-align: top;
+  font-size: 18px;
+  margin-top: -215px;
+
+}
+
+#CONTACT{
+  width: 400px;
+  font-size: 30px;
+  margin-top: -25px;
+  margin-left: -40px;
+}
+
+#grid6{
+  width: 30px;
+
+}
+#img1, #img3{
+  width: 90px;
+  height: 100px;
+  padding: 10px;
+}
+
+#img2, #img4{
+  width: 60px;
+  height: 100px;
+  padding: 10px;
+}
+
+#grid6{
+  width: 400px;
+  height: 200px;
+  margin-left: -80px;
+}
+#ella{
+  width: 150px;
+  margin-left: 385px;
+  margin-top: -320px;
+  margin-bottom: 20px;
+}
+
+#contactinfo{
+  font-size: 22px;
+  margin-top: -50px;
+  line-height: 21pt;
+margin-left: -95px;
+
+}
+
+#grid10{
+  width: 350px;
+  text-align: center;
+  margin-left: -70px;
+  margin-top: 100px;
+}
